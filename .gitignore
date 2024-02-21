@@ -1,0 +1,4 @@
+# .gitignore
+
+notion_content/
+.streamlit/
